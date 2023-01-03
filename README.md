@@ -1,0 +1,1 @@
+# MeMag Token contract
